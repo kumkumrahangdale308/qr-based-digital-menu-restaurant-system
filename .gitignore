@@ -1,0 +1,21 @@
+# Environment / secrets
+.env
+.env.*
+*.log
+
+# XAMPP / local files
+xampp/
+tmp/
+
+# Database backups
+*.sql.bak
+*.dump
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
