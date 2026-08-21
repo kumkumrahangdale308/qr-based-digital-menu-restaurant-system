@@ -5,7 +5,7 @@ on:
   push:
     branches:
       - main
-
+ 
 jobs:
   deploy:
     name: Deploy to digitalmenurestaurent.rf.gd
